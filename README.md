@@ -7,3 +7,4 @@ learn programming languages like python, JavaScript, bash, powershell and more
 also need problem solving skills and proper communication skills 
 tools that are needed are;wireshark, nmap, burp suite, metasploit, john the ripper 
 I chose this career path because I like solving problems and the more i read about the more interested I become. as someone already familiar with the that are required even though I'm still learning them, I think i can save a lot of people with this
+I need to be familiar with the tools and excel on my skills 
